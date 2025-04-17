@@ -6,7 +6,7 @@
 <p align="center">
 
 - | 👋 Hai nama saya Deo Rahman
-- | 👨‍💻 Seorang pelajar coding bukan sepuh
+- | 👨‍💻 Seorang pelajar pemrograman bukan sepuh
 - | 😋 Umur saya 14 year
 
 </p>
