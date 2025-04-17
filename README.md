@@ -1,6 +1,6 @@
 <br></h1>
 <p align="center">
-  <img src="https://files.catbox.moe/fa6oll.jpg" />
+  <img src="https://files.catbox.moe/e8mtbk.jpg" />
 </p>
 
 <p align="center">
